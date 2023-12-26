@@ -1,0 +1,13 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uF,C_0603_1608Metric,125.35,-74.125,90.0,bottom
+C2,1uF,C_0603_1608Metric,115.0,-70.35,180.0,bottom
+C3,1uF,C_0603_1608Metric,106.5,-70.425,90.0,bottom
+C4,1uF,C_0603_1608Metric,105.05,-73.575,90.0,bottom
+D1,Red LED,LED_0603_1608Metric,131.826,-72.136,0.0,bottom
+FID1,Fiducial,Fiducial_0.5mm_Mask1mm,134.7,-81.0,180.0,bottom
+FID2,Fiducial,Fiducial_0.5mm_Mask1mm,103.8,-81.2,180.0,bottom
+FID3,Fiducial,Fiducial_0.5mm_Mask1mm,122.6,-62.45,180.0,bottom
+J1,Micro_SD_Card,microSD_card,118.9,-58.5,0.0,bottom
+J2,Conn_01x12_Pin,PinHeader_1x12_P2.54mm_Vertical,119.0,-77.75,90.0,bottom
+R1,10k,R_0603_1608Metric,113.475,-74.3,0.0,bottom
+U1,TLV70218_SOT23-5,SOT-23-5,110.1375,-71.3,0.0,bottom
