@@ -1,4 +1,4 @@
-# S40FC008-to-sd
+# SkyHigh S40FC008 flash to sd-card
 
 ![](./doc/front_schematic.png)
 ![](./doc/front.png)
